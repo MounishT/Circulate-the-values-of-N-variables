@@ -29,6 +29,8 @@ def circulate():
      print('After circulating the values are:',result)
 ```
 ## Output:
-![image](https://github.com/MounishT/Circulate-the-values-of-N-variables/assets/138955798/b670c73b-668b-4fe1-a7d2-0ed90e752f9d)
+![image](https://github.com/MounishT/Circulate-the-values-of-N-variables/assets/138955798/d6bcff14-3150-45ac-ba0f-8335bafa5f0b)
+
 
 ## Result:
+Thus a python progam to Circulate the n variable using function concept is excuted
